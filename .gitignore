@@ -1,6 +1,10 @@
 target/
 .idea/
+<<<<<<< HEAD
 mavencycles.iml
 hs_err_pid8108.log
 hs_err_pid9596.log
 replay_pid8108.log
+=======
+*.iml
+>>>>>>> 61c80ef9b4afdda979c276428a725dcd0d0440e6
